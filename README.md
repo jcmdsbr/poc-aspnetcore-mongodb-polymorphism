@@ -1,4 +1,4 @@
-# Sample Polymorphism OOP using mongodb :sunglasses:
+# Proof of Concept from Polymorphism OOP using mongodb :sunglasses:
 
 - This project shows how to implementation polymorphism in C# using mongodb as database
 
